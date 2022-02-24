@@ -372,6 +372,15 @@ li:first-child{
        display:none;
        
     }
+    .collapse{
+        background-color:#F6EFE8;
+        
+        transition: 0.2s;
+        padding-left: 20px;
+        border-radius:0px 0px 30px 30px ;
+        min-width: none;
+    
+    }
     
 
   }
